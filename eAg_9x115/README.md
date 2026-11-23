@@ -1,4 +1,4 @@
-The script ```submit_eAg.sh``` prepares condor files for submitting jobs at BNL. To adapt for your use, please modify the output directory accordingly. 
+```submit_eAg.sh```: prepares condor files for submitting jobs at BNL. To adapt for your use, please modify the output directory accordingly. 
 
 ```eAg_9x115_Q2_[minQ2]_[maxQ2].inp```: running cards 
 
